@@ -1,0 +1,23 @@
+i {
+    font-size: 50px;
+    color: rgb(27, 4, 4);
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+h1 {
+    color: rgb(11, 53, 109);
+    text-transform: uppercase;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(148, 88, 10);
+}
